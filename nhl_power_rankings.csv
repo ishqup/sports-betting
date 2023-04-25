@@ -1,0 +1,33 @@
+Team,W,L,Rating,Rank,GS,GA
+Boston Bruins,65,17,1.54,1.0,305,177
+New Jersey Devils,52,30,0.79,2.0,291,226
+Dallas Stars,47,35,0.75,3.0,285,218
+Edmonton Oilers,50,32,0.72,4.0,325,260
+New York Rangers,47,35,0.7,5.0,277,219
+Toronto Maple Leafs,50,32,0.69,6.0,279,222
+Carolina Hurricanes,52,30,0.66,7.0,266,213
+Colorado Avalanche,51,31,0.61,8.0,280,226
+Vegas Golden Knights,51,31,0.49,9.0,272,229
+Tampa Bay Lightning,46,36,0.37,10.0,283,254
+Seattle Kraken,46,36,0.36,11.0,289,256
+Los Angeles Kings,47,35,0.26,12.0,280,257
+New York Islanders,42,40,0.25,13.0,243,222
+Florida Panthers,42,40,0.24,14.0,290,273
+Winnipeg Jets,46,36,0.22,15.0,247,225
+Minnesota Wild,46,36,0.21,16.0,246,225
+Calgary Flames,38,44,0.04,17.0,260,252
+Pittsburgh Penguins,40,42,0.01,18.0,262,264
+Buffalo Sabres,42,40,-0.01,19.0,296,300
+Ottawa Senators,39,43,-0.09,20.0,261,271
+Washington Capitals,35,47,-0.1,21.0,255,265
+Nashville Predators,42,40,-0.13,22.0,229,238
+Vancouver Canucks,38,44,-0.31,23.0,276,298
+Detroit Red Wings,35,47,-0.44,24.0,240,279
+St. Louis Blues,37,45,-0.47,25.0,263,301
+Philadelphia Flyers,31,51,-0.63,26.0,222,277
+Montreal Canadiens,31,51,-0.85,27.0,232,307
+Arizona Coyotes,28,54,-0.86,28.0,228,299
+San Jose Sharks,22,60,-1.05,29.0,234,321
+Chicago Blackhawks,26,56,-1.17,30.0,204,301
+Columbus Blue Jackets,25,57,-1.34,31.0,214,330
+Anaheim Ducks,23,59,-1.54,32.0,209,338
